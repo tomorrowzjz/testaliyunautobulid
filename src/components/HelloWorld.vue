@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-   testJenkins哈哈哈111testedjfadslkjadsfjkl
+   testJenkins哈哈哈111testedjfadslkjadsfjkl autoali
   </div>
 </template>
 
